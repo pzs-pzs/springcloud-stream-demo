@@ -38,3 +38,5 @@ gen
 
 mvnw
 mvnw.cmd
+.mvn
+.gitignore
